@@ -1,0 +1,7 @@
+
+\.idea/
+
+*.a
+
+build/
+pdxcc/\.baap\.db
