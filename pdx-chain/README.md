@@ -1,10 +1,12 @@
 # README.md
-##Use command
+
+###Use command
 
 ```
 make pdxc
 ```
-##Create json file
+
+###Create json file
 
 first create json file(genesis.json)
 
