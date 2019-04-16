@@ -1,12 +1,13 @@
 # README.md
 
-\<Use command\><br /> 
+<h3>Use command</h3>
 
 ```
 make pdxc
 ```
 
-###Create json file
+<h3>Create json file</h3>
+
 
 first create json file(genesis.json)
 
@@ -89,7 +90,7 @@ utopia{
 
 ```
 
-###Make datadir directory
+<h3>Make datadir directory</h3>
  
 Use the above json file to initialize the node and store the file in the corresponding path.
 
@@ -102,7 +103,7 @@ init
 /Users/liu/XXXXXXX/data1
 ```
 
-###Create an account address
+<h3>Create an account address</h3>
  
 After the initialization is successful, the Keystore folder will appear in the corresponding path to store the account private key. 
 
