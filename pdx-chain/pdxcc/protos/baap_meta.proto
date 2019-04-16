@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+package protos;
+
+option go_package = "protos";
+
+message Meta {
+    map<string, bytes> meta = 1;
+}
